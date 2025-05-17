@@ -1,7 +1,6 @@
 # Accepting User Input :
 # input() = A function that prompts the user to enter data
 #           Returns the data as a string
-from operator import length_hint
 
 name = input("What is your name?")# asks the user to enter their name (put it in the variable "name")
 print (f"Hello {name}")# print a hello message for them
