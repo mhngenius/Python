@@ -1,4 +1,4 @@
-# Arithmetic & math
+# 1) Arithmetic & math
 
 friends = 5
 
@@ -20,7 +20,7 @@ remainder = friends % 3
 print(friends)
 print(remainder)
 
-# Built-In math functions
+# 2) Built-In math functions
 
 x = 3.14
 y  = -4
