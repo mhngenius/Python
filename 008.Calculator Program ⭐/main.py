@@ -18,7 +18,3 @@ elif operator == "/":
     print(f"The result is: {round(result, 3)}")
 else:
     print(f"{operator} is an invalid operator.")
-
-
-
-
