@@ -2,7 +2,6 @@
 #         or = at least one condition must be true
 #         and = both conditions must be true
 #         bot = inverts the condition (not False, not True)
-from math import trunc
 
 # 1) or:
 
