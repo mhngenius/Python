@@ -6,7 +6,7 @@
 # 1) or:
 
 temp = 35 #40 #-3
-is_raining = False # True
+is_raining = False #True
 
 if temp > 35 or temp < 0 or is_raining:
     print ("The outdoor event is cancelled")
