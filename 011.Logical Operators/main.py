@@ -18,7 +18,7 @@ else:
 temp2 = -5 #30 #20
 is_sunny = False #True
 
-if temp2 >= 28 and is_sunny: #boolean variable with nothing in front of it in an if statement means
+if temp2 >= 28 and is_sunny: # boolean variable with nothing in front of it in an if statement means
                              # if that variable's value is what we have already defined
     print("It is HOT outside!!! 🥵")
     print("It is SUNNY!!")
