@@ -43,4 +43,3 @@ elif temp2 <= 0 and not is_sunny:
 elif 28 > temp2 > 0 and  not is_sunny: # between a range
     print("It is WARM outside")
     print("It is cloudy")
-
