@@ -123,3 +123,5 @@ elif choice == 6: #  Compound Interest Calculator
 elif choice == 0: # exit
     print("Thank you for using our banking system. Goodbye!")
     exit()
+else :
+    print("Invalid !!!")
