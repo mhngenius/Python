@@ -20,11 +20,12 @@ for z in range (rows):
     print()
 
 
-# Exercise 2 : making a triangle
+# EXERCISE 2 : making a triangle
 
 highest_point = int(input("Enter the highest point of the triangle: "))
 
 for a in range (1, highest_point+1):
     print("*" * a)
 for b in range (highest_point, 0, -1):
+
     print("*" * b)
