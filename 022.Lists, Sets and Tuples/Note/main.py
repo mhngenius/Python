@@ -1,2 +1,0 @@
-# The "len" function and "in" operator works for all of them btw
-# and also we call this topics (+ dictionaries) collections generally
