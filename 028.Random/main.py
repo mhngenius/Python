@@ -2,13 +2,13 @@
 
 import random
 
-# low = 1
-# high = 100
-#
-# random_number = random.randint(low,high) # randint = random whole integer & (a,b) = start and the end of our range
-# # random.random() = random floating number
-#
-# print(random_number) # it is always between range's start through range's end
+ low = 1
+ high = 100
+
+ random_number = random.randint(low,high) # randint = random whole integer & (a,b) = start and the end of our range
+ # random.random() = random floating number
+
+ print(random_number) # it is always between range's start through range's end
 
 
 # rock, paper, scissors for "choice"
@@ -20,3 +20,4 @@ print(option)
 cards = ["2", "3", "4", "5", "6", "7", "8", "9", "J", "Q", "K", "A"]
 random.shuffle(cards) # shuffling
 print(cards)
+
